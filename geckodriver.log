@@ -36,3 +36,10 @@ For more information try --help
 1575707797781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 1575707801134	Marionette	INFO	Listening on port 38537
 1575707801147	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13000, Gecko_IOThread] WARNING: pipe error (113): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 13000, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1575708232568	Marionette	INFO	Stopped listening on port 38537
+[Parent 12493, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1575709498789	Marionette	INFO	Stopped listening on port 46803
